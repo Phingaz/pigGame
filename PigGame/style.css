@@ -23,6 +23,13 @@ body {
 }
 
 /* LAYOUT */
+
+aside {
+  font-size: 2rem;
+  color: #ddd;
+  text-align: center;
+}
+
 main {
   position: relative;
   width: 100rem;
